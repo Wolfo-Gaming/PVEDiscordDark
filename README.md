@@ -7,9 +7,7 @@
 <p align="center">A dark theme for the Proxmox Web UI,<br/> <i>inspired by Discord's color scheme.</i></p>
 
 <p align="center">Everything is dark, including the graphs, context menus and all in between! Eyes need not be fried.</p>    
-The theme now runs its own JavaScript code which patches the colors for certain components (and charts). This approach is much better, and safer than what was used previously.
-## Disclaimer
-I have not made this code myself, The original repo is: https://github.com/Weilbyte/PVEDiscordDark. I have just made changes to the colors
+The theme now runs its own JavaScript code which patches the colors for certain components (and charts). This approach is much better, and safer than what was used previously. I have not made this code myself, The original repo is: https://github.com/Weilbyte/PVEDiscordDark. I have just made changes to the colors
 
 ### Installation 
 The installation is very simple thanks to the utility. Run the following commands on the PVE node serving the Web UI and follow the on-screen instructions!     
