@@ -319,7 +319,7 @@
 }
 
 .x-btn-icon-el.x-btn-icon-el-default-toolbar-small.fa.fa-play {
-    color: #43b581
+    color: #1100ad
 }
 
 .x-btn-icon-el.x-btn-icon-el-default-toolbar-small.fa.fa-fw.fa-ellipsis-v {
@@ -502,7 +502,7 @@
 }
 
 .x-menu-item-icon-default.x-menu-item-icon.fa.fa-fw.fa-play {
-    color: #43b581
+    color: #1100ad
 }
 
 .x-menu-item-icon-default.x-menu-item-icon.fa.fa-fw.fa-stop {
@@ -650,7 +650,7 @@ div[aria-labelledby^="ext-comp-"][aria-labelledby$="_header-title-textEl"]>div:n
 }
 
 .x-progress-default .x-progress-bar-default {
-    background-color: #43b581
+    background-color: #1100ad
 }
 
 .x-progress-text {
