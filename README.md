@@ -8,12 +8,13 @@
 
 <p align="center">Everything is dark, including the graphs, context menus and all in between! Eyes need not be fried.</p>    
 The theme now runs its own JavaScript code which patches the colors for certain components (and charts). This approach is much better, and safer than what was used previously.
-
+## Disclaimer
+I have not made this code myself, The original repo is: https://github.com/Weilbyte/PVEDiscordDark. I have just made changes to the colors
 ## Installation 
 The installation is very simple thanks to the utility. Run the following commands on the PVE node serving the Web UI and follow the on-screen instructions!     
 
 ```
-~# wget https://raw.githubusercontent.com/Weilbyte/PVEDiscordDark/master/PVEDiscordDark.py
+~# wget https://raw.githubusercontent.com/Wolfo-Gaming/PVEDiscordDark/master/PVEDiscordDark.py
 ~# python3 PVEDiscordDark.py
    ```
 
